@@ -1,0 +1,31 @@
+body {
+    font-family: 'Trebuchet MS', 'Verdana', sans-serif;
+}
+
+a {
+    color: rgb(237, 129, 165);
+    margin-right: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.unique {
+    text-align: right;
+    color: rgb(237, 129, 165)
+}
+
+img {
+    border-radius: 25px;
+}
+
+p {
+    font-style: italic;
+    color:rgb(132, 4, 4)
+}
+
+ul {
+    font-family: 'Courier New';
+}

@@ -29,3 +29,18 @@ p {
 ul {
     font-family: 'Courier New';
 }
+
+.category {
+    background-color: lavenderblush;
+    padding: 50px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.recipe {
+    display: block;
+    margin: 50px;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 50px;
+}
